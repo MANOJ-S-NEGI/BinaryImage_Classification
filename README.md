@@ -30,7 +30,7 @@ the accuracy achieved 91% while the model saved on the best weights with a valid
 
 ```
 IMP NOTE:  
-If an openMP runtime error occurred, due to the same lib with more than one name using any one solution
+If an openMP runtime error occurred, due to the same lib with more than one name using any one solution could solve the problem.
 
 # SOL_1: fixed it by deleting the libiomp5md.dll duplicate file from Anaconda environment folder
 OR
