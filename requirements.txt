@@ -1,0 +1,11 @@
+setuptools~=60.2.0
+pandas
+numpy
+matplotlib~=3.7.2
+tensorflow~=2.13.0
+uvicorn~=0.22.0
+fastapi~=0.100.0
+urllib3~=1.26.16
+starlette~=0.27.0
+pydantic~=2.0.2
+#e .
